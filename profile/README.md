@@ -1,12 +1,16 @@
-## Hi there 👋
+## Организация IBit-mc-server
 
-<!--
+Чем мы занимаемся ?
+> Создаём и обновляем всё, что связанно с нашим сервером mc.1bitlog.ru
 
-**Here are some ideas to get you started:**
+Кто мы ?
+> - Thorgathis
+> - Daniil Kozheikin [dnkzn]
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Что мы делаем ?
+> 1. Плагин про реалистичную сборку пк с экономикой построенной вокруг добычи игровых "крипто" монет;
+> 2. Ресур пак с 3D моделями и заменой текстур через Optifine;
+> 3. Приложение для генерирования компьютерной сборки [Доп. иснтрумент для основного плагина];
+> 4. Сайт где расписана вся информация о нашем проекте.
+
+... To be continued
