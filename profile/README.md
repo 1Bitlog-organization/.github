@@ -1,6 +1,6 @@
 ## Организация IBit-mc-server
 
-### **Что бы скачать ресурс пак, нажмите сюда** ➤ [Ресурс пак скачать [Версия 4.92]](https://github.com/IBit-mc-server/ResourcePack/files/14464248/Resource.1BitLog.v4.92.zip)
+### **Ресурс пак можно найти тут** ➤ [[Версия 4.92]](https://github.com/IBit-mc-server/ResourcePack)
 
 
 Чем мы занимаемся ?
