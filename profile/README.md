@@ -1,4 +1,4 @@
-## Организация IBit-mc-server
+## Организация 1Bitlog-organization 
 
 ### **Ресурс пак можно найти тут** ➤ [[Версия 4.92]](https://github.com/IBit-mc-server/ResourcePack)
 
